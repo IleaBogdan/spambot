@@ -1,0 +1,7 @@
+C:\Work\Prosteala\spambot\bin\Debug\spambot.exe.config
+C:\Work\Prosteala\spambot\bin\Debug\spambot.exe
+C:\Work\Prosteala\spambot\bin\Debug\spambot.pdb
+C:\Work\Prosteala\spambot\obj\Debug\spambot.csproj.AssemblyReference.cache
+C:\Work\Prosteala\spambot\obj\Debug\spambot.csproj.CoreCompileInputs.cache
+C:\Work\Prosteala\spambot\obj\Debug\spambot.exe
+C:\Work\Prosteala\spambot\obj\Debug\spambot.pdb
