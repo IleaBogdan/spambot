@@ -5,7 +5,7 @@ using System.Windows.Forms;
 namespace spambot
 {
     //new comment
-    
+    // hello world
     internal class Program
     {
         static void Main(string[] args)
